@@ -1,6 +1,9 @@
 # Final-Project
 
-Welcome to the repository for the Final Project. This project encompasses the final implementation, comprehensive documentation, and an in-depth report. Below are the links to the critical documents associated with this project.
+Welcome to the repository for the Final Project. 
+**Note:** The main repository is **sentient-social**, which includes the core functionalities. The **phrasepilot** repository is integrated within the sentient social media app for additional features.
+
+This project encompasses the final implementation, comprehensive documentation, and an in-depth report. Below are the links to the critical documents associated with this project.
 
 ## Table of Contents
 - [Project Proposal](#project-proposal)
