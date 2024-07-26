@@ -6,6 +6,8 @@ Welcome to the repository for the Final Project.
 
 This project encompasses the final implementation, comprehensive documentation, and an in-depth report. Below are the links to the critical documents associated with this project.
 
+[Loom Video on how the app works](https://www.loom.com/share/bbb162c6647f403ca653c6f51c9add2a?sid=d3b602d8-fbe0-4292-b36b-4f2916e89a94)
+
 ## Table of Contents
 - [Project Proposal](#project-proposal)
 - [Final Implementation](#final-implementation)
